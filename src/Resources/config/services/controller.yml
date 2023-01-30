@@ -19,3 +19,7 @@ services:
             - "@api_platform.message_bus"
         tags:
             - { name: controller.service_arguments }
+
+    bitbag_sylius_wishlist_plugin.controller.action.admin.retrieve_package_info:
+        public: true
+        class: BitBag\SyliusWishlistPlugin\Controller\Action\Admin\RetrievePackageInfoAction
