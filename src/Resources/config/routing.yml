@@ -114,7 +114,7 @@ bitbag_sylius_wishlist_plugin_shop_wishlist_add_wishlist_to_user:
     defaults:
         _controller: bitbag_sylius_wishlist_plugin.controller.action.add_wishlists_to_user
 
-bitbag_sylius_cms_plugin_admin_retrieve_package_info:
+bitbag_sylius_wishlist_plugin_admin_retrieve_package_info:
     path: /admin/wishlist/retrieve-package-info
     methods: [GET]
     defaults:
