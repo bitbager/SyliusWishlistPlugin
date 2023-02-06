@@ -97,19 +97,19 @@ Visit [sylius-demo.bitbag.io](https://sylius-demo.bitbag.io/) to take a look at 
 [sylius-demo.bitbag.io/admin/login](https://sylius-demo.bitbag.io/admin/login) link and `bitbag: bitbag` credentials.
 Plugins that we have used in the demo:
 
-| BitBag's Plugin | GitHub | Sylius' Store|
-| ------ | ------ | ------|
-| ACL Plugin | *Private. Available after the purchasing.*| https://plugins.sylius.com/plugin/access-control-layer-plugin/|
-| Braintree Plugin | https://github.com/BitBagCommerce/SyliusBraintreePlugin |https://plugins.sylius.com/plugin/braintree-plugin/|
-| CMS Plugin | https://github.com/BitBagCommerce/SyliusCmsPlugin | https://plugins.sylius.com/plugin/wishlistplugin/|
-| Elasticsearch Plugin | https://github.com/BitBagCommerce/SyliusElasticsearchPlugin | https://plugins.sylius.com/plugin/2004/|
-| Mailchimp Plugin | https://github.com/BitBagCommerce/SyliusMailChimpPlugin | https://plugins.sylius.com/plugin/mailchimp/ |
+| BitBag's Plugin | GitHub | Sylius' Store                                                  |
+| ------ | ------ |----------------------------------------------------------------|
+| ACL Plugin | *Private. Available after the purchasing.*| https://plugins.sylius.com/plugin/access-control-layer-plugin/ |
+| Braintree Plugin | https://github.com/BitBagCommerce/SyliusBraintreePlugin | https://plugins.sylius.com/plugin/braintree-plugin/            |
+| CMS Plugin | https://github.com/BitBagCommerce/SyliusCmsPlugin | https://plugins.sylius.com/plugin/cmsplugin/                   |
+| Elasticsearch Plugin | https://github.com/BitBagCommerce/SyliusElasticsearchPlugin | https://plugins.sylius.com/plugin/2004/                        |
+| Mailchimp Plugin | https://github.com/BitBagCommerce/SyliusMailChimpPlugin | https://plugins.sylius.com/plugin/mailchimp/                   |
 | Multisafepay Plugin | https://github.com/BitBagCommerce/SyliusMultiSafepayPlugin |
-| Wishlist Plugin | https://github.com/BitBagCommerce/SyliusWishlistPlugin | https://plugins.sylius.com/plugin/wishlist-plugin/|
-| **Sylius' Plugin** | **GitHub** | **Sylius' Store** |
+| Wishlist Plugin | https://github.com/BitBagCommerce/SyliusWishlistPlugin | https://plugins.sylius.com/plugin/wishlist-plugin/             |
+| **Sylius' Plugin** | **GitHub** | **Sylius' Store**                                              |
 | Admin Order Creation Plugin | https://github.com/Sylius/AdminOrderCreationPlugin | https://plugins.sylius.com/plugin/admin-order-creation-plugin/ |
-| Invoicing Plugin | https://github.com/Sylius/InvoicingPlugin | https://plugins.sylius.com/plugin/invoicing-plugin/ |
-| Refund Plugin | https://github.com/Sylius/RefundPlugin | https://plugins.sylius.com/plugin/refund-plugin/ |
+| Invoicing Plugin | https://github.com/Sylius/InvoicingPlugin | https://plugins.sylius.com/plugin/invoicing-plugin/            |
+| Refund Plugin | https://github.com/Sylius/RefundPlugin | https://plugins.sylius.com/plugin/refund-plugin/               |
 
 **If you need an overview of Sylius' capabilities, schedule a consultation with our expert.**
 
