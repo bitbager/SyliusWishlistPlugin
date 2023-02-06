@@ -7,5 +7,5 @@ sylius_ui:
         sylius.admin.layout.javascripts:
             blocks:
                 version_script:
-                    template: "@BitBagSyliusWishlistPlugin/Asset/_wishlistVersionScript.html.twig"
+                    template: "@BitBagSyliusWishlistPlugin/Asset/_versionScript.html.twig"
                     priority: 30
